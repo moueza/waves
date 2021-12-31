@@ -4,4 +4,8 @@ i where y(i)=z2,m where y(m)=z1.
 
 -Numeric way : no equality, just Ball area B(z,eps) presence
 
--Application : number of covid-19 waves
+So for eps given,c where |y(c)-z1|<=eps, f where  |y(f)-z2|<=eps ,
+
+i where   |y(i)-z2|<=eps   ,m where  |y(m)-z1|<=eps   .
+
+-Application : number of covid-19 waves in biology medicine
