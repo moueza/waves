@@ -8,4 +8,8 @@ So for eps given,c where |y(c)-z1|<=eps i.e. (c,y(c))C B((c,z1),eps), f where  |
 
 i where   |y(i)-z2|<=eps   ,m where  |y(m)-z1|<=eps   .
 
--Application : number of covid-19 waves in biology medicine
+-Application : 
+
+.number of covid-19 waves in biology medicine
+
+.ECG heart action potential with negative wave
