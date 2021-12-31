@@ -5,3 +5,4 @@ i where y(i)=z2,m where y(m)=z1.
 
 -Numeric way : no equality, just Ball area presence
 
+-Application : number of covid-19 waves
